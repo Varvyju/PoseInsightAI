@@ -24,7 +24,7 @@ This project implements a real-time posture detection system using OpenCV and Me
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/pratham-asthana/posture-detection.git
+    git clone https://github.com/Varvyju/PoseInsightAI
     cd posture-detection
     ```
 
